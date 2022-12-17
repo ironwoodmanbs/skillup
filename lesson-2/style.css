@@ -1,0 +1,14 @@
+p{
+    color: #67cb86;
+    font-size: 35px;
+    font-style: italic;
+    border: 1px solid red;
+    border-right: 1px solid red;
+    background-color: black;
+}
+.second-paragraph{
+    color: yellow;    
+}
+#third-paragraph {
+    color: aqua;
+}

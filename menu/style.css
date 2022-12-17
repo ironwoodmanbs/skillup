@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    background-color: grey;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+li{
+    float:left; 
+}
+li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+
+}
+.active{
+    background-color: red;
+}
+a:hover{
+    color: yellow;
+}
